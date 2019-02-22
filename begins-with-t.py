@@ -1,4 +1,4 @@
-# Micheál Cannon - problem set question 1
+# Micheál Cannon - problem set question 2
 # A program that outputs whether or not today is a day that begins with the letter T
 
  # import the datetime module

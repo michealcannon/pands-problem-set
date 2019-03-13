@@ -12,4 +12,5 @@ The file for problem 4 is called collatz.py
 
 The file for problem 5 is called primes.py
 
+The file for problem 6 is called secondstring.py
 

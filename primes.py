@@ -12,7 +12,7 @@ for n in range (2,i):
         print("This is not a prime")
         break
 
-# prints "this is a prime" if the loop ends without a break (no factor is found)
+# prints "this is a prime" if the loop ends without a break (no factor is foundprim)
 else:
     print("This is a prime")
          

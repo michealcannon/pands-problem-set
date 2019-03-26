@@ -17,3 +17,5 @@ The file for problem 6 is called secondstring.py
 The file for problem 7 is called squareroot.py
 
 The file for problem 8 is called date_time.py
+
+The python file for problem 9 is called second.py. The text file is mobydick.txt.

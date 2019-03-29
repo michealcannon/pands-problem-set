@@ -1,7 +1,7 @@
 # Micheál Cannon - question 6
 #  a program that asks the user to input a positive integer and tells the user whether or not the number is a prime. 
 
-# ask for user to input a positive integer
+# ask for user to input a positive integer; convert to int value and assign to variable i
 i = int(input("Please enter a positive integer: "))
 
 # loop that checks if 2,3,4,...,i-1 can divide into i with no remainder
@@ -12,7 +12,7 @@ for n in range (2,i):
         print("This is not a prime")
         break
 
-# prints "this is a prime" if the loop ends without a break (no factor is foundprim)
+# prints "this is a prime" if the loop ends without a break (no factor is found)
 else:
     print("This is a prime")
          

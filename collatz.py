@@ -5,7 +5,7 @@
 # by taking the current value and, if it is even, divide it by two, but if it is odd, multiply
 # it by three and add one. The program ends if the current value is one.
 
-# ask user to enter a positive integer
+# ask user to enter a positive integer; convert to int value and assign to variable i
 i = int(input("Please enter a positive integer: "))
 
 # print input 

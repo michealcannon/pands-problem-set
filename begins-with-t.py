@@ -1,5 +1,7 @@
 # Micheál Cannon - problem set question 2
 # A program that outputs whether or not today is a day that begins with the letter T
+# Adapted from this post  https://stackoverflow.com/a/9847269
+
 
  # import the datetime module
 

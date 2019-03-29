@@ -8,17 +8,17 @@ integer and outputs the sum of all numbers between 1 and that number.
 The file for problem 2 is called begins-with-t.py. The program outputs whether or not 
 today is a day that begins with the letter t. 
 
-The file for problem 3 is called divisors.py. The program that prints all numbers between 
+The file for problem 3 is called divisors.py. The program prints all numbers between 
 1000 and 10,000 that are divisible by 6 but not 12.
 
-The file for problem 4 is called collatz.py. The program explored the Collatz Conjecture. It 
+The file for problem 4 is called collatz.py. The program explores the Collatz Conjecture. It 
 asks the user to input any positive integer and outputs the successive values of the following 
 calculation. At each step calculate the next value by taking the current value and, if it is 
 even, divide it by two, but if it is odd, multiply it by three and add one. The program ends 
 if the current value is one.The conjecture is that no matter what value of n, the sequence will 
 always reach 1.
 
-The file for problem 5 is called primes.py. The program that asks the user to input a positive 
+The file for problem 5 is called primes.py. The program asks the user to input a positive 
 integer and tells the user whether or not the number is a prime.
 
 The file for problem 6 is called secondstring.py. The program takes a user input string and 
